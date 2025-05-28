@@ -321,6 +321,11 @@ github 地址：[https://github.com/e2b-dev/E2B](https://github.com/e2b-dev/E2B)
 
 ## 网页浏览
 
+### Scrapeless
+Scrapeless Scraping Browser 为 AI Agent 提供高并发、低成本的数据采集能力，原生支持 Puppeteer/Playwright，具备应对 reCAPTCHA、Cloudflare 等防护机制的能力，可处理动态交互页面，是构建自动化智能体的理想基础设施。
+
+github 地址：[https://github.com/scrapeless-ai](https://github.com/scrapeless-ai)
+
 ### Crawlee
 Crawlee 是一个用于构建可靠爬虫的 Node.js 网络爬取和浏览器自动化库，支持 JavaScript 和 TypeScript。它可以提取 AI、LLM、RAG 或 GPT 所需的数据，从网站下载 HTML、PDF、JPG、PNG 等文件。
 
