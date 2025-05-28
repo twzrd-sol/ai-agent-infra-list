@@ -445,6 +445,11 @@ GitHub repository: [https://github.com/e2b-dev/E2B](https://github.com/e2b-dev/E
 
 ## Web Browsing
 
+### Scrapeless
+
+Scrapeless Scraping Browser provides AI Agents with high-concurrency, low-cost data collection capabilities, natively supports Puppeteer/Playwright, has the ability to deal with anti-bot protection mechanisms such as reCAPTCHA and Cloudflare, and can handle dynamic interactive pages. It is an ideal infrastructure for building automated intelligent agents.
+
+GitHub repository: [https://github.com/scrapeless-ai](https://github.com/scrapeless-ai)
 
 ### Crawlee
 
