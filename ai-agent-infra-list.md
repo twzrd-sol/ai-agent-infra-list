@@ -433,6 +433,16 @@ AgentConnect provides agent authentication methods based on the W3C DID specific
 GitHub repository: [https://github.com/chgaowei/AgentConnect](https://github.com/chgaowei/AgentConnect)
 
 
+
+
+### TWZRD Agent Intel
+
+TWZRD Agent Intel is an MCP server for on-chain trust scoring and reputation verification of AI agent wallets on Solana. Before autonomous agents make x402 micropayments to unknown wallets, they can call `score_agent(wallet)` to get a trust score (0-100) and `preflight_check(wallet)` for a go/no-go signal. Signed trust receipts are available via `get_trust_receipt(wallet)`.
+
+Homepage: [https://intel.twzrd.xyz](https://intel.twzrd.xyz)
+
+MCP configuration: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
+
 ## Runtime
 
 
